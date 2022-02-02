@@ -1,5 +1,5 @@
 # Demo
 
-Hello git.
+Hello!! Git.
 
-Lets leran git
+Let's learn Git!!!
